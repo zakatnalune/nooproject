@@ -2,7 +2,7 @@
 
 Your contribution is the energy required to accelerate the transition from the CDS (Credit-Debt System) to the rational management of resources. All funds are allocated to:
 
-*   **Development** of the open-source Control System (CS) code.
+*   **Evolution** of the open-source Control System (CS) code.
 *   **Infrastructure:** Server maintenance and domain hosting.
 *   **Localization:** Translating materials into major world languages.
 
