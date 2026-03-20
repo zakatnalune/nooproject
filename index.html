@@ -24,44 +24,34 @@
 <body>
   <div id="app">Инициализация протокола Ноосферы... / Initializing Noosphere Protocol...</div>
   
-  <script>
+   <script>
     window.$docsify = {
       name: 'NooProject',
-      repo: 'https://github.com', // Твой актуальный репозиторий
+      repo: 'https://github.com',
       loadSidebar: true, // Загрузка _sidebar.md
       auto2top: true,    // Скролл вверх при смене страницы
       homepage: 'ru/README.md', // Стартовая страница
       
       // Настройка путей (Алиасы)
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md', // Использовать один сайдбар везде
+        '/.*/_sidebar.md': '/_sidebar.md',
         '/en/(.*)': '/en/$1',
         '/ru/(.*)': '/ru/$1'
       },
       
-      // Ссылка на главной при клике на лого
+      // Ссылка при клике на лого
       nameLink: {
         '/en/': '#/en/README',
         '/ru/': '#/ru/README',
         '/': '#/ru/README'
-      },
-
-      // Плагин поиска
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: {
-          '/en/': 'Search',
-          '/ru/': 'Поиск'
-        },
-        noData: {
-          '/en/': 'No results',
-          '/ru/': 'Ничего не найдено'
-        },
-        depth: 2
       }
     }
   </script>
+
+  <!-- Основной скрипт Docsify (скрипт поиска удален) -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
 
   <!-- Основные скрипты Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
