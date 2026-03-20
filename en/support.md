@@ -8,7 +8,7 @@ Your contribution is the energy required to accelerate the transition from the C
 
 ### Donation Details:
 
-*   **Crypto (USDT / BTC):** `19A1vf7vMeYi69cBxbjof7LnNV9f7djhLo`
-*   **Bank Cards / Other:** `2202 2050 1683 9935`
+*   **Crypto (BTC):** `19A1vf7vMeYi69cBxbjof7LnNV9f7djhLo`
+*   **Bank Cards :** `2202 2050 1683 9935`
 
 > **Note:** In a resource-based economy, "money" is merely a temporary tool to build a system where it is no longer needed. Thank you for fueling the future.
