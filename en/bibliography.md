@@ -1,7 +1,7 @@
 Intellectual Framework of the System: From Classical Philosophy to Cybernetics and Dystopias
 
 I. Social Engineering and Noocracy
-
+| :--- | :--- | :--- |
 Vladimir Vernadsky — A Few Words About the Noosphere
 Andrey Domrachev — Noocracy: The Foundation
 Andrey Domrachev — Noocracy: Part One
