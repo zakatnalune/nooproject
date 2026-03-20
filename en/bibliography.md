@@ -1,5 +1,5 @@
 Intellectual Framework of the System: From Classical Philosophy to Cybernetics and Dystopias
-
+| Автор | Произведение | Роль в проекте |
 I. Social Engineering and Noocracy
 | :--- | :--- | :--- |
 Vladimir Vernadsky — A Few Words About the Noosphere
