@@ -12,7 +12,7 @@ We live in an age when technology can provide humanity with what used to be cons
 
 The reason is not that people suddenly became worse. Nor is it simply that “someone messed everything up.” The reason is that our main tool of distribution—**money**—was designed for a world of scarcity and manual labor. Today it increasingly drives us not toward development, but toward a dead end.
 
-Vladimir Vernadsky spoke of scientific thought as a force on a planetary scale: “Scientific thought is a planetary phenomenon…” (1). In his logic, humanity ceases to be merely a “group of consumers” and becomes a **geological force** reshaping the biosphere. That means the level of governance must match the scale of impact. A mechanism built for barter at a marketplace cannot manage a planetary organism.
+Vladimir Vernadsky spoke of scientific thought as a force on a planetary scale: “Scientific thought is a planetary phenomenon…” . In his logic, humanity ceases to be merely a “group of consumers” and becomes a **geological force** reshaping the biosphere. That means the level of governance must match the scale of impact. A mechanism built for barter at a marketplace cannot manage a planetary organism.
 
 ### “But what about *them*?”
 As you read, the question “but what about *them*?” will arise again and again: bankers, officials, corporations, oligarchs. It seems they defend the system because it benefits them. But if you look at it as a system, another picture appears: **the system benefits its elites only as long as it remains controllable**.
