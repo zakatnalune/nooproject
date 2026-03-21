@@ -1,6 +1,4 @@
-import { defineConfig } from 'vitepress'
-
-export default defineConfig({
+export default {
   title: 'NooProject',
 
   locales: {
@@ -29,4 +27,4 @@ export default defineConfig({
       ]
     }
   }
-})
+} as const
