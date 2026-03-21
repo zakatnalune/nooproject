@@ -1,4 +1,5 @@
 # Chapter 1. Anatomy of Collapse
+Vladimir Vernadsky spoke of scientific thought as a force on a planetary scale: “Scientific thought is a planetary phenomenon…”(1)
 
 ## 1.1. The Mathematics of Imaginary Prosperity
 
@@ -71,7 +72,7 @@ Continue growth—the biosphere collapses.
 
 Meadows in *The Limits to Growth* showed that exponential growth in a bounded system leads to overshoot and subsequent collapse (author’s thesis) (6). This is not ideology. It is system dynamics.
 
-Vernadsky ties this to the scale of human impact: scientific‑technical activity becomes a force that changes the planet’s оболочка—its living envelope (1). At this scale, errors of governance cease to be local—they become planetary.
+Vernadsky links this to the scale of human impact: scientific and technological activity becomes a force that changes the planet’s envelope. (1). At this scale, errors of governance cease to be local—they become planetary.
 
 ## 1.7. Financial cannibalism: the system starts eating itself
 
