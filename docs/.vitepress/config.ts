@@ -5,43 +5,34 @@ export default defineConfig({
 
   locales: {
     root: {
+      label: 'EN',
+      lang: 'en-US',
+      title: 'NooProject',
+      description: '',
+      themeConfig: {
+        nav: [
+          { text: 'EN', link: '/' },
+          { text: 'RU', link: '/ru/' }
+        ],
+        sidebar: {
+          '/': [{ text: 'Home', link: '/' }]
+        }
+      }
+    },
+
+    ru: {
       label: 'RU',
       lang: 'ru-RU',
       link: '/ru/',
       title: 'NooProject',
       description: '',
-
       themeConfig: {
         nav: [
-          { text: 'RU', link: '/ru/' },
-          { text: 'EN', link: '/en/' }
+          { text: 'EN', link: '/' },
+          { text: 'RU', link: '/ru/' }
         ],
-
         sidebar: {
-          '/ru/': [
-            { text: 'Главная', link: '/ru/' }
-          ]
-        }
-      }
-    },
-
-    en: {
-      label: 'EN',
-      lang: 'en-US',
-      link: '/en/',
-      title: 'NooProject',
-      description: '',
-
-      themeConfig: {
-        nav: [
-          { text: 'RU', link: '/ru/' },
-          { text: 'EN', link: '/en/' }
-        ],
-
-        sidebar: {
-          '/en/': [
-            { text: 'Home', link: '/en/' }
-          ]
+          '/ru/': [{ text: 'Главная', link: '/ru/' }]
         }
       }
     }
