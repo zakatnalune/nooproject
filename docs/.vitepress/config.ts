@@ -15,7 +15,11 @@ export default defineConfig({
           { text: 'RU', link: '/ru/' }
         ],
         sidebar: {
-          '/': [{ text: 'Home', link: '/' }]
+          '/': 
+            [
+{ text: 'Home', link: '/' },
+{ text: 'About', link: '/about' }
+            ]
         }
       }
     },
@@ -32,7 +36,10 @@ export default defineConfig({
           { text: 'RU', link: '/ru/' }
         ],
         sidebar: {
-          '/ru/': [{ text: 'Главная', link: '/ru/' }]
+          '/ru/': [
+            { text: 'Главная', link: '/ru/' }
+            { text: 'О проекте', link: '/ru/about' }      
+                  ]
         }
       }
     }
