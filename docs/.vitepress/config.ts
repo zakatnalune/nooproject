@@ -37,7 +37,7 @@ export default defineConfig({
         ],
         sidebar: {
           '/ru/': [
-            { text: 'Главная', link: '/ru/' }
+            { text: 'Главная', link: '/ru/' },
             { text: 'О проекте', link: '/ru/about' }      
                   ]
         }
