@@ -41,6 +41,7 @@ export default defineConfig({
             { text: 'О проекте', link: '/ru/about' },
             { text: 'Глава 1 Анатомия краха', link: '/ru/chapter-1' },
             { text: 'Глава 2 Час Быка: Точка системного коллапса', link: '/ru/chapter-2' },
+            { text: 'Глава 3 Ресурсоориентированный мир: Наследие Жака Фреско', link: '/ru/chapter-3' },
                   ]
         }
       }
