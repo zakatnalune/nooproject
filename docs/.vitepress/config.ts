@@ -38,6 +38,7 @@ export default defineConfig({
         sidebar: {
           '/ru/': [
             { text: 'Главная', link: '/ru/' },
+            { text: 'Глава 1', link: '/ru/chapter-1' },
             { text: 'О проекте', link: '/ru/about' }      
                   ]
         }
