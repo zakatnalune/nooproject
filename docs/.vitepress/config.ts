@@ -38,8 +38,9 @@ export default defineConfig({
         sidebar: {
           '/ru/': [
             { text: 'Главная', link: '/ru/' },
-            { text: 'Глава 1', link: '/ru/chapter-1' },
-            { text: 'О проекте', link: '/ru/about' }      
+            { text: 'О проекте', link: '/ru/about' }
+            { text: 'Глава 1 Анатомия краха', link: '/ru/chapter-1' },
+            { text: 'Глава 2 Час Быка: Точка системного коллапса', link: '/ru/chapter-2' },
                   ]
         }
       }
