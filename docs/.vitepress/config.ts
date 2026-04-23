@@ -19,6 +19,7 @@ export default defineConfig({
             [
               { text: 'Home', link: '/' },
               { text: 'Chapter 1. Anatomy of the Collapse', link: '/chapter-1' },
+              { text: 'Bibliography', link: '/bibliography' },
               { text: 'Support', link: '/support' },
               { text: 'License', link: '/license' },
             ]
