@@ -20,4 +20,4 @@ NooProject is a transition strategy from a debt-based monetary system to a Noocr
 - **Full Concept (EN):** https://nooproject.com
 - **GitHub Repository:** https://github.com/zakatnalune/nooproject/tree/main/docs
 - **License:** NooProject Public License (MIT-based, Non-commercial)
- 
+ Copyright (c) 2026 Artem Bakanev
