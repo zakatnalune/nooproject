@@ -18,7 +18,8 @@ export default defineConfig({
           '/': 
             [
 { text: 'Home', link: '/' },
-{ text: 'About', link: '/about' }
+{ text: 'Chapter 1. Anatomy of the Collapse', link: '/chapter-1' }
+{ text: 'Support', link: '/support' }
             ]
         }
       }
