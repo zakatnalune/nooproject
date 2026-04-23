@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /en/llms.txt
+Allow: /ru/llms.txt
+Allow: /en/llms-full.txt
+Allow: /ru/llms-full.txt
+
+Sitemap: https://nooproject.com
