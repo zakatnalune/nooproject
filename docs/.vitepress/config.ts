@@ -17,9 +17,10 @@ export default defineConfig({
         sidebar: {
           '/': 
             [
-{ text: 'Home', link: '/' },
-{ text: 'Chapter 1. Anatomy of the Collapse', link: '/chapter-1' },
-{ text: 'Support', link: '/support' },
+              { text: 'Home', link: '/' },
+              { text: 'Chapter 1. Anatomy of the Collapse', link: '/chapter-1' },
+              { text: 'Support', link: '/support' },
+              { text: 'License', link: '/license' },
             ]
         }
       }
@@ -29,7 +30,7 @@ export default defineConfig({
       label: 'RU',
       lang: 'ru-RU',
       link: '/ru/',
-      title: 'NooProject',
+      title: 'Проект Ноосфера',
       description: '',
       themeConfig: {
         nav: [
