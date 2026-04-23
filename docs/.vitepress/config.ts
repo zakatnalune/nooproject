@@ -19,6 +19,8 @@ export default defineConfig({
             [
               { text: 'Home', link: '/' },
               { text: 'Chapter 1. Anatomy of the Collapse', link: '/chapter-1' },
+              { text: 'Chapter 2. The Hour of the Bull: The Point of Systemic Collapse', link: '/chapter-2' },
+              { text: 'Chapter 3. The Resource-Based World: The Legacy of Jacque Fresco', link: '/chapter-3' },
               { text: 'Bibliography', link: '/bibliography' },
               { text: 'Support', link: '/support' },
               { text: 'License', link: '/license' },
