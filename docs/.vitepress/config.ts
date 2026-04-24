@@ -2,6 +2,9 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/',
+  sitemap: {
+    hostname: 'https://nooproject.com'
+  },
 
   locales: {
     root: {
