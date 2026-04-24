@@ -102,7 +102,7 @@ Artificial Intelligence—specifically Large Language Models—functions ideally
 - The Security of Truth: The SC makes the return of "financial lies" impossible. In a world where every action is transparent and physically verified, deception is a technical glitch that is eliminated instantly.
 
 ## 10.18. The Final Step: From Concept to Reality
-Мы прошли путь from the analysis of the "debt-based monetary financial system" to the description of a planetary mind. This book is not a fantasy; it is the project documentation of the transition.
+We have traveled the path from the analysis of the "debt-based monetary financial system" to the description of a planetary mind. This book is not a fantasy; it is the project documentation of the transition.
 - Assembly Point: You, reading these lines, have already begun your transition. Information is energy. By understanding the mechanics of UC, recognizing the lie of scarcity, and seeing the power of the Energy Matrix, you can no longer be an obedient slave to an obsolete and inefficient system.
 - Infiltration of Meanings: Noospheregenesis begins not with the construction of garden cities, but with your personal decision: “I am no longer playing their games. My status is my utility, my face is my passport, my future is Earth.”
 - Unity of Navigators: There are already millions of us — those who understand that the economic era has come to an end. Those who are ready to switch the track of the trolley from "profit" to "Life." There are no obstacles on this path except for our own fear.
